@@ -1,7 +1,8 @@
 <div align="center">
   <img src="+.png" alt="Duku vition" width="1200" />
-</div>
-#  Duku VI Luna AI
+</div>'
+
+# Duku VI Luna AI
 
 **Luna AI** is a fully local multimodal robotic assistant built with computer vision, speech processing, and a local large language model.
 
