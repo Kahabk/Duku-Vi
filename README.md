@@ -2,7 +2,7 @@
   <img src="+.png" alt="Duku vition" width="1200" />
 </div>'
 
-# 🌑 Duku VI Luna AI
+#  Duku VI Luna AI
 
 ### Multimodal Robotic Vision & Interaction Framework
 
@@ -18,7 +18,7 @@
 ![Status](https://img.shields.io/badge/Status-Research%20%2F%20Experimental-orange?style=for-the-badge)
 ---
 
-## 🧠 Abstract
+##  Abstract
 
 **Duku VI Luna AI** is a next-generation **offline-first multimodal robotic intelligence framework** designed to unify perception, reasoning, and creative synthesis within autonomous systems.
 
@@ -48,9 +48,9 @@ The long-term vision is to establish a **self-contained cognitive architecture**
 
 ---
 
-## ⚙️ Core Capabilities
+##  Core Capabilities
 
-### 🛰️ Spatial Awareness
+###  Spatial Awareness
 
 Real-time environmental perception powered by YOLO-based object detection pipelines.
 
@@ -70,7 +70,7 @@ Fully offline speech-to-reasoning pipeline:
 
 ---
 
-### 🎨 Visual Synthesis
+###  Visual Synthesis
 
 Generative feedback loop using SDXL:
 
@@ -80,7 +80,7 @@ Generative feedback loop using SDXL:
 
 ---
 
-### 🔁 Multimodal Feedback Loop
+###  Multimodal Feedback Loop
 
 The system operates as a **closed cognitive loop**:
 
