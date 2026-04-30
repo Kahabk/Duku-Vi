@@ -30,7 +30,7 @@ This project explores a future where robotic agents operate with **zero cloud de
 * Autonomous decision-making
 
 The long-term vision is to establish a **self-contained cognitive architecture** capable of powering **industrial robotics, digital twins, and embodied AI systems** in constrained or disconnected environments.
-
+the system need impove ment so 
 ---
 
 ## 🧩 System Architecture
