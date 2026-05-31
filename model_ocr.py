@@ -25,7 +25,7 @@ def ask(image_path):
             "num_predict": 80,       # Low token limit = fast
             "num_ctx": 512,          # Tiny context window
             "num_thred":3,                      # Match i3 core count
-            "num_gpu": 1,            # CPU only (i3 = no GPU)
+            "num_gpu": 4,            # CPU only (i3 = no GPU)
             "low_vram": True,
             "f16_kv": False,
         }
