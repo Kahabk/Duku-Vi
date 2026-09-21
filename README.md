@@ -4,6 +4,20 @@
 
 #  Duku VI Luna AI
 
+### Multimodal Robotic Vision & Interaction Framework
+
+![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/NVIDIA-CUDA%20Supported-76B900?style=for-the-badge&logo=nvidia)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker)
+![Build](https://img.shields.io/github/actions/workflow/status/your-org/duku-vi-luna-ai/main.yml?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/your-org/duku-vi-luna-ai?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/your-org/duku-vi-luna-ai?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/your-org/duku-vi-luna-ai?style=for-the-badge)
+![AI Stack](https://img.shields.io/badge/Stack-Multimodal%20AI-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Research%20%2F%20Experimental-orange?style=for-the-badge)
+---
+
 
 
 ##  Abstract
