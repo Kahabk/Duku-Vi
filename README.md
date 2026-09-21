@@ -37,18 +37,6 @@ The long-term vision is to establish a **self-contained cognitive architecture**
 
 ## 🧩 System Architecture
 
-### Current vs. Evolutionary Architecture
-
-| Layer                 | Current Stack              | Next-Gen Evolution                |
-| --------------------- | -------------------------- | --------------------------------- |
-| **Core Reasoning**    | Llama 3.2                  | LLaVA (Vision-Language Native)    |
-| **Vision Processing** | YOLO (Real-time detection) | Mamba-Vision (State-Space Models) |
-| **Speech Interface**  | Whisper (offline ASR)      | Enhanced multimodal fusion        |
-| **Generative Engine** | SDXL (Stable Diffusion)    | Omniverse-integrated pipelines    |
-| **Execution Layer**   | Python + CUDA              | NVIDIA Isaac ROS                  |
-| **Simulation Layer**  | N/A                        | NVIDIA Isaac Sim + Digital Twins  |
-
----
 
 ##  Core Capabilities
 
